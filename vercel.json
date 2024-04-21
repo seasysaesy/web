@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/appeal_case_id", "destination": "/appeal_case_id.html" },
+    { "source": "/review_case_id", "destination": "/review_case_id.html" }
+  ]
+}
